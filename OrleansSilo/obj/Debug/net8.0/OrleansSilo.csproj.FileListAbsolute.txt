@@ -97,3 +97,4 @@
 /home/sempronio18/workspace/orleans-example/OrleansSilo/obj/Debug/net8.0/OrleansSilo.pdb
 /home/sempronio18/workspace/orleans-example/OrleansSilo/obj/Debug/net8.0/OrleansSilo.genruntimeconfig.cache
 /home/sempronio18/workspace/orleans-example/OrleansSilo/obj/Debug/net8.0/ref/OrleansSilo.dll
+/home/sempronio18/workspace/orleans-example/OrleansSilo/obj/Debug/net8.0/OrleansSilo.sourcelink.json
