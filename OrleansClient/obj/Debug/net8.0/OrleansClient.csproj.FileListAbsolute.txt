@@ -1,0 +1,5 @@
+/home/sempronio18/workspace/orleans-example/OrleansClient/obj/Debug/net8.0/OrleansClient.csproj.AssemblyReference.cache
+/home/sempronio18/workspace/orleans-example/OrleansClient/obj/Debug/net8.0/OrleansClient.GeneratedMSBuildEditorConfig.editorconfig
+/home/sempronio18/workspace/orleans-example/OrleansClient/obj/Debug/net8.0/OrleansClient.AssemblyInfoInputs.cache
+/home/sempronio18/workspace/orleans-example/OrleansClient/obj/Debug/net8.0/OrleansClient.AssemblyInfo.cs
+/home/sempronio18/workspace/orleans-example/OrleansClient/obj/Debug/net8.0/OrleansClient.csproj.CoreCompileInputs.cache
